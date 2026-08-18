@@ -22,6 +22,8 @@
   .top{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.96);border-bottom:1px solid var(--line)}
   .top .wrap{display:flex;align-items:center;justify-content:space-between;padding-top:12px;padding-bottom:12px}
   .brand{display:flex;align-items:center;gap:10px;font-weight:700;color:var(--deep);letter-spacing:.3px}
+  .brand .logo,.top .logo{height:42px;width:auto;display:block}
+  .hero .logo{height:72px;width:auto;display:block;margin:0 0 22px;background:#fff;border:1px solid var(--line);border-radius:12px;padding:10px 16px;box-shadow:0 4px 14px rgba(35,51,47,.08)}
   .brand .dot{width:34px;height:34px;border-radius:50%;background:linear-gradient(135deg,var(--teal),var(--sage));display:flex;align-items:center;justify-content:center;color:#fff;font-size:17px}
   .top .cta{background:var(--deep);color:#fff;text-decoration:none;font-weight:600;padding:10px 18px;border-radius:40px;font-size:14px}
   .top .cta:hover{background:#2c4a44}
@@ -117,7 +119,7 @@
 
 <header class="top">
   <div class="wrap">
-    <div class="brand"><span class="dot">❤</span> Cathys Care</div>
+    <div class="brand"><img class="logo" src="logo.jpg" alt="Cathys Care"></div>
     <a class="cta" href="#waitlist">Join the founding waitlist</a>
   </div>
 </header>
@@ -126,6 +128,7 @@
 <section class="hero">
   <div class="wrap">
     <div>
+      <img class="logo" src="logo.jpg" alt="Cathys Care">
       <span class="kicker">Founding waitlist now open · limited seats</span>
       <h1>Build a <span>$100k part-time</span> care business that fits around your family.</h1>
       <p class="lead">No nursing degree. No boss. No burning out. A warm, honest, step-by-step path to your own NDIS & Support at Home business — built for women in regional Australia.</p>
@@ -133,7 +136,7 @@
         <a class="btn" href="#waitlist">Join the founding waitlist</a>
         <a class="btn sage" href="#who">See if it's for you</a>
       </div>
-      <p class="note">Free founding access for the first group · your input shapes the course</p>
+      <p class="note">Free founding access for the first cohort · your input shapes the course</p>
     </div>
     <div class="card">
       <h3>Inside the course you get</h3>
@@ -211,12 +214,12 @@
 <!-- HOW IT WORKS -->
 <section>
   <div class="wrap">
-    <div class="sec-label">How the founding group works</div>
+    <div class="sec-label">How the founding cohort works</div>
     <h2>Prove it works before you invest</h2>
     <p class="sub">We're building this with you. Founders get a real discount and a real say — and you never pay full price.</p>
     <div class="steps">
       <div class="step"><div class="n">1</div><h4>Join the waitlist</h4><p>Leave your email. You'll get a short free training video and a spot in line for founding access.</p></div>
-      <div class="step"><div class="n">2</div><h4>Founding access</h4><p>First group gets the course at the founding price (well below the full price), as we launch it module by module.</p></div>
+      <div class="step"><div class="n">2</div><h4>Founding access</h4><p>First cohort gets the course at the founding price (well below the full price), as we launch it module by module.</p></div>
       <div class="step"><div class="n">3</div><h4>Learn &amp; shape it</h4><p>Go through it, use the tools, and your feedback shapes the final course. You keep the founding price for life.</p></div>
     </div>
   </div>
@@ -236,7 +239,7 @@
         <button type="submit">Join the waitlist</button>
       </form>
       <div class="form-msg" id="fmsg"></div>
-      <p class="fine">Free founding access for the first group · founding price locked for life · your feedback shapes the course. We're building the course module by module — you'll never be asked to pay for anything you haven't seen first.</p>
+      <p class="fine">Free founding access for the first cohort · founding price locked for life · your feedback shapes the course. We're building the course module by module — you'll never be asked to pay for anything you haven't seen first.</p>
     </div>
   </div>
 </section>
