@@ -45,7 +45,7 @@ We are building the course **only if the market will pay for it.** This page is 
 - **Course price:** ~$997 one-time (launch special ~$897, or 3 × ~$333). 14–30 day refund.
 - **Tier 2 membership** (ongoing): confirmed as a "goer" — recurring monthly revenue (~$29–49/mo).
 - **Affiliate income** (disclosed honestly): MYOB (invoicing), a trusted RTO (Cert III), an insurer.
-- **Founding cohort** is the validation offer: discounted founding price + a real say in shaping the course, in exchange for early, honest commitment.
+- **Founding group** is the validation offer: discounted founding price + a real say in shaping the course, in exchange for early, honest commitment.
 
 ### Success targets for validation
 - **Waitlist:** 25–50+ organic email signups (from Cathy's own network + local community groups) indicates real pull.
@@ -60,7 +60,7 @@ We are building the course **only if the market will pay for it.** This page is 
 2. **"Is this you?"** — the six personas (mum, carer, in the country, ready for more, no clinical skills, honest work).
 3. **The honest promise** — real money teaching with verified numbers (e.g. $58–73/hr as your own business vs ~$35–40 as an employee; gross, not take-home).
 4. **Founder story** — Cathy's real journey (regional Tasmania, caring for her mum, "university of life").
-5. **How the founding cohort works** — join → founding access → learn & shape it.
+5. **How the founding group works** — join → founding access → learn & shape it.
 6. **Waitlist form** — captures email + first name.
 7. **FAQ** — honest answers to the common objections.
 8. **Footer** — socials (Facebook, Instagram), cathys.care, and the legal disclaimer.
