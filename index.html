@@ -95,6 +95,13 @@
   .form button{background:var(--sage);color:#fff;font-weight:700;padding:15px 26px;border:none;border-radius:40px;cursor:pointer;font-size:15px}
   .form button:hover{background:#7a9c8c}
   .form-msg{margin-top:12px;font-size:14px;color:#eaf3f0;min-height:20px}
+  .pricing{margin:26px auto 0;max-width:420px;background:#fff;border:1px solid var(--line);border-radius:14px;padding:18px 22px;text-align:left}
+  .pricing .t{display:flex;justify-content:space-between;padding:6px 0;font-size:15px;border-bottom:1px dashed var(--line)}
+  .pricing .t span:last-child{font-weight:700;color:var(--deep)}
+  .pricing .full span:last-child{color:var(--muted);text-decoration:line-through}
+  .pricing .best{color:var(--accent)}
+  .vacancy{display:inline-block;background:var(--accent);color:#fff;font-weight:700;font-size:13px;padding:7px 16px;border-radius:40px;margin-bottom:14px}
+  .vacancy strong{font-size:15px}
   .waitlist .fine{font-size:12.5px;color:#b9cfc8;margin-top:16px;max-width:44rem;margin-left:auto;margin-right:auto}
 
   /* faq */
@@ -136,7 +143,7 @@
         <a class="btn" href="#waitlist">Join the founding waitlist</a>
         <a class="btn sage" href="#who">See if it's for you</a>
       </div>
-      <p class="note">Free founding access for the first founding group · your input shapes the course</p>
+      <p class="note">First 20 founding places · founding price from $497 · your input shapes the course</p>
     </div>
     <div class="card">
       <h3>Inside the course you get</h3>
@@ -222,6 +229,13 @@
       <div class="step"><div class="n">2</div><h4>Founding access</h4><p>The founding group gets the course at the founding price (well below the full price), as we launch it module by module.</p></div>
       <div class="step"><div class="n">3</div><h4>Learn &amp; shape it</h4><p>Go through it, use the tools, and your feedback shapes the final course. You keep the founding price for life.</p></div>
     </div>
+    <div class="pricing">
+      <div class="t full"><span>Full course price</span><span>$997</span></div>
+      <div class="t"><span>Founding places 1–5</span><span class="best">$497</span></div>
+      <div class="t"><span>Founding places 6–15</span><span>$697</span></div>
+      <div class="t"><span>Founding places 16–20</span><span>$897</span></div>
+      <p style="font-size:13px;color:var(--muted);margin:12px 0 0">Founding price locked for life. Places fill in order — the first in gets the best rate.</p>
+    </div>
   </div>
 </section>
 
@@ -231,7 +245,9 @@
     <div class="waitlist" id="waitlist">
       <div class="sec-label" style="color:#cfe0da">Founding waitlist</div>
       <h2>Save your founding spot</h2>
-      <p class="sub">Join now for the founding price and early access. No spam, unsubscribe anytime.</p>
+      <div class="vacancy"><!-- UPDATE THIS NUMBER HONESTLY AS FOUNDING PLACES FILL (20 total) -->Only <strong>20</strong> of 20 founding places left</div>
+      <p class="sub">Full course $997 · founding places from $497. Join now to hold a founding spot at the founding price.</p>
+      <p class="sub" style="margin-top:4px">No spam, unsubscribe anytime.</p>
       <!-- Replace the action with your form service (e.g. Formspree) or email when ready -->
       <form class="form" id="wl" onsubmit="event.preventDefault();document.getElementById('fmsg').textContent='Thank you — you\u2019re on the list! We\u2019ll be in touch soon.';this.reset();">
         <input type="email" name="email" placeholder="Your email" required>
@@ -239,7 +255,7 @@
         <button type="submit">Join the waitlist</button>
       </form>
       <div class="form-msg" id="fmsg"></div>
-      <p class="fine">Free founding access as a founding member · founding price locked for life · your feedback shapes the course. We're building the course module by module — you'll never be asked to pay for anything you haven't seen first.</p>
+      <p class="fine">Founding access at the founding price · price locked for life for founding members · your feedback shapes the course. We're building the course module by module — you'll never be asked to pay for anything you haven't seen first.</p>
     </div>
   </div>
 </section>
