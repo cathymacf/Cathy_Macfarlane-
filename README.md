@@ -1,8 +1,8 @@
-# Cathys Care — Founding-Waitlist Landing Page
+# Cathy's Care — Founding-Waitlist Landing Page
 
 **The $100k Part-Time Care Business Plan · Your Complete Step-by-Step Journey**
 
-A single-page marketing site for the **Cathys Care** course — built to *prove demand* for a new online course before we invest in full production, and to build a warm list of founding customers.
+A single-page marketing site for the **Cathy's Care** course — built to *prove demand* for a new online course before we invest in full production, and to build a warm list of founding customers.
 
 > Hosted live at: **https://cathymacf.github.io/Cathy_Macfarlane-/** (GitHub Pages)
 > Landing page source: `index.html` · This document: `README.md`
@@ -11,7 +11,7 @@ A single-page marketing site for the **Cathys Care** course — built to *prove 
 
 ## 1. What this is
 
-This is the **founding-waitlist landing page** for an online course teaching women — mostly in rural/regional Australia — how to launch a profitable, part-time, **non-clinical** support business in the NDIS and Support at Home (aged care) sectors. The course business is **Cathys Care** (ASIC-registered), the product name is *"Cathys Care: The $100k Part-Time Care Business Plan."*
+This is the **founding-waitlist landing page** for an online course teaching women — mostly in rural/regional Australia — how to launch a profitable, part-time, **non-clinical** support business in the NDIS and Support at Home (aged care) sectors. The course business is **Cathy's Care** (ASIC-registered), the product name is *"Cathy's Care: The $100k Part-Time Care Business Plan."*
 
 The page is deliberately **honest and warm, not salesy** — matching the course's brand and audience. It asks visitors to join a **founding waitlist** (email + first name) for early, discounted access.
 
@@ -108,4 +108,4 @@ Information on this page is general in nature and **not** financial, legal, or t
 
 ---
 
-*© Cathys Care · A real business, built with care. · Founder: Cathy Macfarlane*
+*© Cathy's Care · A real business, built with care. · Founder: Cathy Macfarlane*
