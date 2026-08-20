@@ -32,7 +32,7 @@ We are building the course **only if the market will pay for it.** This page is 
 - **Ageing population, staying home longer** — demand for in-home support is structural and growing for decades.
 - **Two growing, government-funded sectors** — the **NDIS** (disability) and **Support at Home** (aged care). Government funding gives **continuity** that most businesses don't have.
 - **Worker shortage** — the care workforce is one of the most in-demand in the country.
-- **Rural-first structural gap** — the big care companies serve the cities; they *cannot* profitably serve rural/regional Australia (travel kills economics, low density, regional worker shortage, highest need). A local sole trader with near-zero overheads is the only model that works regionally. *"The big companies serve the cities — you serve your town, better than they ever could."*
+- **Service-gap structural opportunity** — the big care providers are everywhere, but they run on rosters and rotation; clients see a different face each week. What people actually want is one consistent, local, reliable person they can trust in their home. An independent local provider brings that — and clients and families are eager to pay for it. *"The big providers are everywhere, but people are searching for someone consistent, local, and reliable."*
 - **Future-proof, human, non-offshorable** — you can't automate sitting with someone or offshore a helping hand.
 - **Low barrier to entry** — no clinical qualifications needed to start non-clinical; the "university of life" (years of caring for family) is the real qualification.
 
